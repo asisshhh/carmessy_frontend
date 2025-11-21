@@ -88,7 +88,7 @@ export default function Footer() {
                     </div>
                     <div className="footer-main-connect-items">
                         <div>1800 200 3000 (Toll-Free)</div>
-                        <div>support@cardekho.com</div>
+                        <div>support@carmessy.com</div>
                         <div>Dealer solutions</div>
                         <div>Used Cars Business</div>
                         <div>Contact Us</div>
@@ -98,12 +98,9 @@ export default function Footer() {
             </div>
             <div className="footer-copyright">
                 <div className="footer-copyright-left">
-                    <span>© 2021 Girnar Software Pvt. Ltd.</span>
+                    <span>© 2025 Carmessy.com</span>
                 </div>
                 <div className="footer-copyright-right">
-                    <div className="footer-copyright-right-item">
-                        <img src="https://stimg.cardekho.com/pwa/img//gaadi-new-logo.svg" alt=""/>
-                    </div>
                     <div className="footer-copyright-right-item">
                         <img src="https://stimg.cardekho.com/pwa/img//zigwheels.png" alt=""/>
                     </div>

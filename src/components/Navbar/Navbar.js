@@ -10,7 +10,7 @@ export default function Navbar() {
                 <div className="navbar-header">
                     <div className="navbar-header-left">
                         <div className="navbar-header-left-logo">
-                            <img src="https://stimg.cardekho.com/pwa/img/CarDekho-Logo.svg" alt="" />
+                            <h3>CARMESSY</h3>
                         </div>
                         <div className="navbar-header-left-search">
                             <div className='navbar-input'>
@@ -70,7 +70,7 @@ export default function Navbar() {
                                 <ArrowDropDown/>
                             </div>
                             <div className="navbar-footer-left-categories-name">
-                                <p>CARDEKO VENTURES</p>
+                                <p>CARMESSY VENTURES</p>
                             </div>
                             <div className="navbar-footer-left-categories-dropmenu">
                                 <ArrowDropDown/>
